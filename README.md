@@ -1,1 +1,1 @@
-# django_saml_sp
+#Django SAML Service Provider
